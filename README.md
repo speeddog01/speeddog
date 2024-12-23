@@ -10,3 +10,6 @@
 
 ### 其他相关 TG 频道
 [https://t.me/speeddog01](https://t.me/speeddog01)
+
+### 防止失联邮箱
+发送任意内容至 [admin@speeddog.top](mailto:admin@speeddog.top) 可自动回复最新官网地址。
