@@ -6,7 +6,7 @@
 [https://svip0.speeddog.top](https://svip0.speeddog.top)
 
 ### 最新导航地址
-暂未提供
+[https://blog.speeddog.top](https://blog.speeddog.top)
 
 ### 其他相关 TG 频道
 [https://t.me/speeddog01](https://t.me/speeddog01)
